@@ -1,0 +1,8 @@
+{
+  "name": "Lee Ventures Ltd",
+  "description": "Premium industrial and safety solutions provider in Port Harcourt, Nigeria. High-quality personal protective equipment (PPE), industrial tools, marine safety, and interactive request-for-quote system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
