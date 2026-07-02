@@ -254,7 +254,7 @@ export default function Hero({
           </div>
           <div className="relative aspect-video rounded-lg overflow-hidden shadow-lg border border-zinc-200 bg-zinc-100">
             <img 
-              src="/assets/images/safety_solutions_1783008492761.jpg" 
+              src="/images/safety_solutions_1783008492761.jpg" 
               alt="Real safety specialists" 
               className="w-full h-full object-cover grayscale brightness-90 hover:grayscale-0 transition-all duration-500"
               referrerPolicy="no-referrer"
@@ -271,7 +271,7 @@ export default function Hero({
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1 relative aspect-video rounded-lg overflow-hidden shadow-lg border border-zinc-200 bg-zinc-100">
             <img 
-              src="/assets/images/safety_boots_1783008310567.jpg" 
+              src="/images/safety_boots_1783008310567.jpg" 
               alt="Safety Training Services" 
               className="w-full h-full object-cover grayscale brightness-90 hover:grayscale-0 transition-all duration-500"
               referrerPolicy="no-referrer"
@@ -333,7 +333,7 @@ export default function Hero({
           </div>
           <div className="relative aspect-video rounded-lg overflow-hidden shadow-lg border border-zinc-200 bg-zinc-100">
             <img 
-              src="/assets/images/safety_warehouse_1783015380162.jpg" 
+              src="/images/safety_warehouse_1783015380162.jpg" 
               alt="HQ Warehousing facility" 
               className="w-full h-full object-cover grayscale brightness-90 hover:grayscale-0 transition-all duration-500"
               referrerPolicy="no-referrer"
@@ -411,7 +411,7 @@ export default function Hero({
       <section className="relative py-24 text-center text-white overflow-hidden bg-zinc-900">
         <div className="absolute inset-0 opacity-20 pointer-events-none">
           <img 
-            src="/assets/images/offshore_rig_1783015395159.jpg" 
+            src="/images/offshore_rig_1783015395159.jpg" 
             alt="Offshore Rig Climber Background" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
