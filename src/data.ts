@@ -15,7 +15,7 @@ export const PRODUCTS: Product[] = [
       "Accessory slots for hearing protection, visors, and headlamps",
       "Under-chin strap anchorage points for additional stability"
     ],
-    imageUrl: "/src/assets/images/safety_helmet_1783008297375.jpg",
+    imageUrl: "/assets/images/safety_helmet_1783008297375.jpg",
     standard: "EN 397:2012 + A1:2012 / ANSI/ISEA Z89.1-2014 Type I",
     rating: 4.8,
     inStock: true,
@@ -34,7 +34,7 @@ export const PRODUCTS: Product[] = [
       "Shock-absorbing energy heel and anti-static build",
       "Breathable mesh lining for comfort in hot environments like Port Harcourt"
     ],
-    imageUrl: "/src/assets/images/safety_boots_1783008310567.jpg",
+    imageUrl: "/assets/images/safety_boots_1783008310567.jpg",
     standard: "EN ISO 20345:2011 S3 SRC",
     rating: 4.9,
     inStock: true,
@@ -53,7 +53,7 @@ export const PRODUCTS: Product[] = [
       "Multi-pocket configuration: clear ID holder, radio pocket, and pen slots",
       "Machine washable with reflective intensity holding up to 25 washes"
     ],
-    imageUrl: "/src/assets/images/safety_vest_1783008324447.jpg",
+    imageUrl: "/assets/images/safety_vest_1783008324447.jpg",
     standard: "EN ISO 20471 Class 2 / ANSI/ISEA 107-2015 Class 2",
     rating: 4.7,
     inStock: true,
@@ -72,7 +72,7 @@ export const PRODUCTS: Product[] = [
       "Adjustable elastic headband for a secure, customized seal",
       "Fits easily over standard optical prescription eyeglasses"
     ],
-    imageUrl: "/src/assets/images/safety_goggles_1783008364158.jpg",
+    imageUrl: "/assets/images/safety_goggles_1783008364158.jpg",
     standard: "EN 166 3 4 BT / ANSI Z87.1+ High Impact",
     rating: 4.6,
     inStock: true,
@@ -91,7 +91,7 @@ export const PRODUCTS: Product[] = [
       "Adjustable nose clip and soft interior foam gasket ensures a tight facial seal",
       "Heavy-duty double elastic headstraps for stable pressure distribution"
     ],
-    imageUrl: "/src/assets/images/respirator_mask_1783008378937.jpg",
+    imageUrl: "/assets/images/respirator_mask_1783008378937.jpg",
     standard: "EN 149:2001 + A1:2009 FFP3 NR / NIOSH N99",
     rating: 4.8,
     inStock: true,
@@ -112,7 +112,7 @@ export const PRODUCTS: Product[] = [
       "95dB acoustic alarm, high-visibility 360-degree LED bars, and vibration",
       "Rechargeable Li-ion battery with up to 18 hours of continuous runtime"
     ],
-    imageUrl: "/src/assets/images/gas_detector_1783008392061.jpg",
+    imageUrl: "/assets/images/gas_detector_1783008392061.jpg",
     standard: "ATEX II 1G Ex ia IIC T4 Ga / IECEx / UL Class I, Div 1",
     rating: 4.9,
     inStock: true,
@@ -131,7 +131,7 @@ export const PRODUCTS: Product[] = [
       "Rip-indicator seams show if the harness has suffered fall load stress",
       "IP54 high-visibility polyester webbing resistant to oil, dirt, and UV damage"
     ],
-    imageUrl: "/src/assets/images/safety_harness_1783008407646.jpg",
+    imageUrl: "/assets/images/safety_harness_1783008407646.jpg",
     standard: "EN 361:2002 / ANSI Z359.11",
     rating: 4.8,
     inStock: true,
@@ -150,7 +150,7 @@ export const PRODUCTS: Product[] = [
       "Easy-to-read pressure indicator gauge for safety inspection checks",
       "Supplied with a sturdy wall-mounting bracket and safety pin lock"
     ],
-    imageUrl: "/src/assets/images/fire_extinguisher_1783008421330.jpg",
+    imageUrl: "/assets/images/fire_extinguisher_1783008421330.jpg",
     standard: "BS EN 3-7 Certified / Marine Equipment Directive (MED) Approved",
     rating: 4.7,
     inStock: true,
@@ -169,7 +169,7 @@ export const PRODUCTS: Product[] = [
       "Includes 25 heavy-duty vinyl danger warning tags ('Do Not Operate')",
       "Assorted circuit breaker lockouts (universal clamp-on and miniature types)"
     ],
-    imageUrl: "/src/assets/images/lockout_station_1783015361366.jpg",
+    imageUrl: "/assets/images/lockout_station_1783015361366.jpg",
     standard: "OSHA 29 CFR 1910.147 (Energy Control Standard)",
     rating: 4.9,
     inStock: true,
@@ -190,7 +190,7 @@ export const PRODUCTS: Product[] = [
       "Four independent light arc sensors reduce risk of blind-spot delay",
       "Perfect for SMAW (Stick), GMAW (MIG/MAG), GTAW (TIG), and plasma cutting"
     ],
-    imageUrl: "/src/assets/images/welding_helmet_1783008337862.jpg",
+    imageUrl: "/assets/images/welding_helmet_1783008337862.jpg",
     standard: "EN 175 B / EN 379 1/1/1/1 / ANSI Z87.1 Approved",
     rating: 4.9,
     inStock: true,
@@ -209,7 +209,7 @@ export const PRODUCTS: Product[] = [
       "Reinforced thumbs and palms for superior wear resistance",
       "16-inch length provides full protection up to the mid-forearm"
     ],
-    imageUrl: "/src/assets/images/welder_gloves_1783008436367.jpg",
+    imageUrl: "/assets/images/welder_gloves_1783008436367.jpg",
     standard: "EN 388:2016 (4144X) / EN 407:2004 (413X4X) Type A",
     rating: 4.8,
     inStock: true,
@@ -230,7 +230,7 @@ export const PRODUCTS: Product[] = [
       "Constructed from abrasion-resistant marine-grade nylon shell",
       "Equipped with buddy-line, rescue lifting becket, and non-clog safety whistle"
     ],
-    imageUrl: "/src/assets/images/life_jacket_1783008350548.jpg",
+    imageUrl: "/assets/images/life_jacket_1783008350548.jpg",
     standard: "SOLAS 74 Convention / IMO Resolution MSC.200(80) / MED Approved",
     rating: 5.0,
     inStock: true,
@@ -249,7 +249,7 @@ export const PRODUCTS: Product[] = [
       "Built-in visual pressure gauge on carrying case for fast routine check",
       "Heavy-duty orange protective carrying bag with ergonomic shoulder strap"
     ],
-    imageUrl: "/src/assets/images/respirator_mask_1783008378937.jpg",
+    imageUrl: "/assets/images/respirator_mask_1783008378937.jpg",
     standard: "SOLAS Chapter II-2 / ISO 23269-1:2008 Compliant",
     rating: 4.9,
     inStock: true,
